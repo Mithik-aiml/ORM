@@ -1,6 +1,7 @@
 # Ex02 Django ORM Web Application
-## Date: 
-
+## Date: 15.04.2025
+## Name:G.Mithik jain
+## Ref No:212224240087
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
 
@@ -27,6 +28,7 @@ Execute Django admin and create details for 10 books
 
 
 ## OUTPUT
+![Screenshot 2025-04-11 145421](https://github.com/user-attachments/assets/43033b01-13a3-4f11-9346-ad1c626a0181)
 
 Include the screenshot of your admin page.
 
